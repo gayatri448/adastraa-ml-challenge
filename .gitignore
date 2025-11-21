@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Django
+*.sqlite3
+/media/
+*.log
+*.pot
+*.pyc
+*.mo
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# ML Models / Outputs (optional, if too large)
+ml_models/*.pkl

@@ -75,10 +75,11 @@ Used **LabelEncoder** for:
 - Captures complex feature interactions automatically  
 
 
-## 🖼️ Application Screenshot
+## 🖼️ Output Screenshot
 
-### Sample Prediction Output
-![Application Screenshot](media/screenshot.png)
+Here is the sample output of the predictions from the application:
+
+![Predictions Screenshot](screenshots/Screenshot.png)
 
 ## 🚀 Installation & Setup
 

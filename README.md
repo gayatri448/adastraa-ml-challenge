@@ -86,7 +86,7 @@ Here is the sample output of the predictions from the application:
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/adastraa-ml-challenge.git
+git clone https://github.com/gayatri448/adastraa-ml-challenge.git
 cd adastraa-ml-challenge
 ```
 

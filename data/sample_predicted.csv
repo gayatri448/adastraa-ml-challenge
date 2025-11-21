@@ -1,0 +1,4 @@
+Ad_ID,Campaign_Name,Clicks,Impressions,Cost,Leads,Conversions,Conversion Rate,Predicted_Sale_Amount,Ad_Date,Location,Device,Keyword
+A3000,Data Analytics Corse,123.0,5050.0,$247.93,11.0,8.0,0.065,$1755,29-11-2024,hydrebad,Tablet,analytics for data
+A3001,Data Anlytics Corse,137.0,5057.0,$194.11,11.0,6.0,0.044,$1206,2024/11/09,Hyderbad,DESKTOP,data analytics course
+A3002,Data Analytics Corse,93.0,5346.0,$197.78,15.0,8.0,0.086,$1036,2024-11-15,Hyderbad,Tablet,data analitics online
